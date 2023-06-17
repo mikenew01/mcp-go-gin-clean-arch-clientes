@@ -1,0 +1,11 @@
+version: '3.1'
+
+services:
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: M@ikonCan123
+      POSTGRES_USER: mikemcp
+    ports:
+      - "5432:5432"
