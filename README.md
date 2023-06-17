@@ -6,3 +6,6 @@ Projeto desenvolvido com:
 - PostgreSQL
 - Clean Arch
 - Docker
+
+OBS: 
+- Não foi utilizado o conceito de domain no pacote, porque só tenho uma unica entidade.
